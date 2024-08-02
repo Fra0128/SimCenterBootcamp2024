@@ -126,7 +126,7 @@ Introduction to C/C++/HPC - July 31 - Aug 2, 2024, 2.5 days
   * C++ Example
   * Assign Homework C #2
 
-* Session 5:
+* Session 5: `Parallel Programming & MPI <https://github.com/NHERI-SimCenter/SimCenterBootcamp2024/blob/master/Presentations/C-Session5.pdf>`_
 
   * Parallel Computers  
   * MessagePassing & MPI
